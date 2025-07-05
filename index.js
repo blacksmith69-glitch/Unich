@@ -349,7 +349,7 @@ async function main() {
         maxLength: screen.width - margin,
       }).string;
     } else {
-      art = cfonts.render('FOREST ARMY', {
+      art = cfonts.render('CRYPTO WITH ARYAN', {
         font: 'tiny',
         align: 'center',
         colors: ['cyan', 'magenta'],
@@ -373,7 +373,7 @@ async function main() {
     tags: false,
     align: 'center',
   });
-  channelPane2.setContent('✪ BOT UNICH AUTO MINING ✪');
+  channelPane2.setContent('✪ UNICH AUTO MINING ✪');
   screen.append(channelPane2);
 
   const infoPane = blessed.box({
