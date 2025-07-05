@@ -32,14 +32,14 @@ Make sure you have Firefox installed on your phone.
 
 Then, install the Greasemonkey Extension from Firefox Add-ons:
 
-👉 Click here to install Greasemonkey
+👉 [Click here to install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 
 ---
 
 📜 Step 4: Add the UNICH Script in Greasemonkey
 
-1. Open (copy this script)
+1. Open [copy this script](https://github.com/blacksmith69-glitch/Unich/blob/main/Copy_this-script)
 
 2. Copy the entire script.
 
